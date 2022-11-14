@@ -1,0 +1,11 @@
+charset-normalizer==2.1.1
+cmake==3.24.3
+dlib==19.24.0
+idna==3.4
+numpy==1.23.4
+opencv-python==4.6.0.66
+Pillow==9.3.0
+pyTelegramBotAPI==4.7.1
+requests==2.28.1
+scipy==1.9.3
+urllib3==1.26.12
