@@ -73,3 +73,5 @@ def callback_query(call) -> None:
 # start bot
 bot.infinity_polling()
 
+print('some text')
+
