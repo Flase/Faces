@@ -9,7 +9,7 @@ from draw_ph1 import my_func
 images_dir = 'images'
 repost_channel = os.getenv('REPOST_CHANNEL')
 
-TOKEN = '5767456606:AAGsg9GAg_hoXwHPLe8T-ZNmqnMAmTy7iGs'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN, parse_mode=None)
 
 
